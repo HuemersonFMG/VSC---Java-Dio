@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "dio-trilha-java-basico",
+			"path": "../Dio-Trilha-JavaBasico/dio-trilha-java-basico"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"TiposVariaveis/src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		]
+	}
+}
